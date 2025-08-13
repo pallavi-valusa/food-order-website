@@ -1,0 +1,44 @@
+body{
+    background-image: url(bg3);
+    background-repeat: no-repeat;
+    background-size: 1700px 1000px;
+}
+form{
+    border: dotted 1px black;
+    width: 450px;
+    margin-left: 30px;
+    padding-left: 10px;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(173, 88, 28);
+}
+label{
+    font-size: 23px;
+    font-weight: bold;
+    color: rgb(202, 53, 53);
+}
+input{
+    height: 30px;
+    width: 300px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+button{
+    height: 30px;
+    width: 100px;
+    background-color: rgb(170, 89, 35);
+    border-radius: 20px;
+    color: rgb(13, 11, 11);
+    font-size: 20px;
+    font-weight: bold;
+}
+button:hover{
+    background-color: rgba(20, 105, 134, 0.732);
+    color: rgb(177, 169, 8);
+}
+p{
+    color: burlywood;
+    
+}

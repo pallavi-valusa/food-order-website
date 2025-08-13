@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url(indexbg);
+    background-repeat: no-repeat;
+    background-size: 1700px 950px;
+}
+h1{
+    color: rgb(37, 32, 32);
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 30px;
+}
+#text1{
+    margin-top: 100px;
+}
+button{
+    height: 60px;
+    width: 130px;
+    border-color: darkblue;
+    border-radius: 20px;
+    font-size: 24px;
+    font-weight: bold;
+}
+button a{
+    color: rgb(215, 30, 39);
+    text-decoration: none;
+}
+#bt1{
+    margin-left: 700px;
+    margin-right: 30px;
+    margin-top: 15px;
+}
